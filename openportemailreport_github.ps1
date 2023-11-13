@@ -8,6 +8,9 @@ $smtpto = "n@somewhere.net"
 $sendusername = "leaderboard@somewhere.net"
 $sendpassword = "hadtoguesspasswordforemail"
 
+$uid="DBusername"
+$pwdd="DBpassword"
+
 ####################################
 # Program: openportemailreport.ps1
 # By: Von Wallace vonwallace@vonwallace.com
